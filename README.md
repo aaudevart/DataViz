@@ -1,6 +1,5 @@
 # Master Class Data Visualization
 
---
 ![Master 2 SID-Big Data](https://cmisid.univ-tlse3.fr/sites/default/files/logoSID_UPS_new_0.png "Master 2 SID-Big Data")
 
 Dec 12th 2016 - University of Toulouse III (Paul Sabatier)
@@ -31,5 +30,4 @@ For your information, Christophe participated in the creation of an amazing Data
 
 --
 
->  The greatest value of a picture is when it forces us to notice what we never expected to see.
-John Tukey 
+>  The greatest value of a picture is when it forces us to notice what we never expected to see. (John Tukey)
