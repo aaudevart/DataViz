@@ -1,6 +1,6 @@
 # Master Class Data Visualization
 
-![Master 2 SID-Big Data](content/files/logoSIDbigdata.png "Master 2 SID-Big Data")
+![Master 2 SID-Big Data](content/logoSIDbigdata.png "Master 2 SID-Big Data")
 
 
 Here is the summary :
